@@ -1,0 +1,76 @@
+body {
+  background-color: #f0f0f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background-color: #ddd;
+  padding: 1rem;
+  text-align: left;
+}
+
+.nav a {
+  color: #0077aa;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.header {
+  text-align: center;
+  padding: 2rem;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.tagline {
+  font-style: italic;
+  color: #666;
+}
+
+.jump-link {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.jump-link a {
+  text-decoration: none;
+  color: #005577;
+  font-weight: bold;
+}
+
+.video-section {
+  text-align: center;
+  padding: 2rem;
+}
+
+.content {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.tableau-section {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.extra-image {
+  text-align: center;
+  padding: 2rem;
+}
+
+.trail-photo {
+  max-width: 90%;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
